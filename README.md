@@ -1,1 +1,3 @@
 # ada-git
+#oieee meu primeiro readme...
+hello world da silva!! 
