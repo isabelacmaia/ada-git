@@ -1,3 +1,2 @@
 # ada-git
-#oieee meu primeiro readme...
-hello world da silva!! 
+esse repositório foi feito durante uma aula da Ada Tech :D
